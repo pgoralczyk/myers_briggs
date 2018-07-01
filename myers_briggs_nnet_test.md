@@ -1,4 +1,4 @@
-Keras exercise: simple feedforwark network to predict extraversion based on forum posts
+Keras exercise: simple feedforward network to predict extraversion based on forum posts
 ================
 
 <h3>
