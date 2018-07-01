@@ -1,2 +1,2 @@
 # myers_briggs
-mb
+Playing around with Keras: predicting Intro/Extraversion based on text
