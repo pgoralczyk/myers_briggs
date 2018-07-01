@@ -13,7 +13,7 @@ Here we'll show how to transform such data and train a neural network to predict
 <h3>
 Preliminary work
 </h3>
-We start with loading necessery libraries and reading the data.
+We start with loading necessary libraries and reading the data.
 
 ``` r
 library(reshape2)
